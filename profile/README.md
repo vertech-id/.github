@@ -1,3 +1,3 @@
 # VertechID
 
-Software House and IT Solutions
+Software House and Electronics Solutions
